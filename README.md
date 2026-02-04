@@ -12,9 +12,9 @@ I specialize in both **frontend and backend development** and enjoy solving **pe
 - 🎓 **Bachelor of Software Engineering**  
   BELTEI International University (2023 – 2026)
 - 💼 **Software Engineer at Wintech Software Development**  
-  Working on **Education Management Systems**
-- 🚀 Focused on **web application development**, **system implementation**, and **client collaboration**
-- 💡 Love clean architecture, performance optimization, and maintainable code
+  Contributing to **Education Management Systems**
+- 🚀 Specialized in **web application development**, **system implementation**, and **client collaboration**
+- 💡 Interested in **clean architecture**, **performance**, and **scalable systems**
 - ⚡ Fun fact: I primarily develop on **Windows**
 
 ---
@@ -40,7 +40,7 @@ I specialize in both **frontend and backend development** and enjoy solving **pe
 
 ## 📊 GitHub Stats
 
-![Dalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 > 🔁 Replace `YOUR_USERNAME` with your actual GitHub username
@@ -49,10 +49,10 @@ I specialize in both **frontend and backend development** and enjoy solving **pe
 
 ## 🔗 Connect With Me
 
-- 🌐 **Portfolio:** https://your-portfolio-link
-- 💼 **LinkedIn:** https://linkedin.com/in/your-profile
-- 📬 **Telegram:** https://t.me/yourusername
-- ✉️ **Email:** your@email.com
+- 🌐 **Portfolio:** https://portfolio-ladalin.vercel.app/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/la-dalin-b88829393
+- 📬 **Telegram:** https://t.me/Dalin1534
+- ✉️ **Email:** lin280454@gmail.com
 
 ---
 
