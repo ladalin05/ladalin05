@@ -39,15 +39,6 @@ I specialize in both **frontend and backend development** and enjoy solving **pe
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-> 🔁 Replace `YOUR_USERNAME` with your actual GitHub username
-
----
-
 ## 🔗 Connect With Me
 
 - 🌐 **Portfolio:** https://portfolio-ladalin.vercel.app/
