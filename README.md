@@ -50,11 +50,9 @@ I specialize in both **frontend and backend development** and enjoy solving **pe
 
 ## 🧠 Quotes I Live By
 
-> *"Code is like humor. When you have to explain it, it's bad."*  
-> — Cory House
+> *"Code is like humor. When you have to explain it, it's bad."*  — Cory House
 
-> *"The best way to predict the future is to invent it."*  
-> — Alan Kay
+> *"The best way to predict the future is to invent it."*  — Alan Kay
 
 ---
 
