@@ -41,10 +41,10 @@ I specialize in both **frontend and backend development** and enjoy solving **pe
 
 ## 🔗 Connect With Me
 
-- 🌐 **Portfolio:** https://portfolio-ladalin.vercel.app/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/la-dalin-b88829393
-- 📬 **Telegram:** https://t.me/Dalin1534
-- ✉️ **Email:** lin280454@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ladalin.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la-dalin-b88829393)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dalin1534)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lin280454@gmail.com)
 
 ---
 
