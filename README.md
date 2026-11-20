@@ -1,19 +1,20 @@
 # Hi there, I'm La Dalin 👋
 
-### Full-Stack Web Developer | Laravel & React
+### Junior Full-Stack Web Developer | Laravel & React
 
 I'm a software engineering graduate from Phnom Penh, Cambodia, who loves building **robust, scalable, and user-friendly web applications**.
-I work across **frontend and backend**, and I'm currently **open to full-time internship and junior developer roles**.
+I build REST APIs, admin dashboards, and responsive web interfaces, and I'm currently **open to full-time junior developer roles**.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Bachelor of Software Engineering**
+- 🎓 **Bachelor of Science in Software Engineering**
   BELTEI International University (2023 – 2026)
-- 💼 **Web Developer Intern at Wintech Software Development** (2024 – 2025)
-  Built an **Education Management System** (Laravel) and a **Library Management** module
-- 🛠️ Currently doing **freelance web development** while looking for a full-time role
+- 💼 **Freelance Full-Stack Developer** (2026 – Present)
+  Built and deployed client web apps with Laravel REST APIs and Nuxt.js/React.js frontends: **D2D Laundry** and **Pureclean Laundry**
+- 🏢 **Web Developer at Wintech Software Development** (2025 – 2026)
+  Built and maintained an **Education Management System** in Laravel, including the **Library Management** module, plus database improvements, feature testing, and user documentation
 - 📍 Based in **Phnom Penh, Cambodia**
 - 🗣️ Languages: **Khmer** (fluent), **English** (intermediate)
 - 💡 Interested in **clean architecture**, **performance**, and **scalable systems**
@@ -23,11 +24,10 @@ I work across **frontend and backend**, and I'm currently **open to full-time in
 
 ## 🚀 Featured Projects
 
-- 🧾 **DLPOS** – Solo-built full-stack POS management system
+- 🧾 **POS Management System** (2025) – Solo-built full-stack POS and inventory system with a cashier terminal, admin dashboard, multi-warehouse stock, tax and discount handling, a bilingual EN/KH interface, and real-time sales and low-stock analytics
   `Laravel` `MySQL` `jQuery` `CSS`
-- 🏠 **Real Estate Listing Platform** – Property listing web app
+- 🏠 **Real Estate Platform** (2026) – Property listing platform for the Cambodian market with 7 property categories, advanced search and filtering, user authentication, and an admin dashboard for listings, users, inquiries, and revenue reports
   `React` `Laravel` `MySQL` `jQuery` `Tailwind CSS`
-- 📚 **E-Book Web Application** – My bachelor thesis project
 
 👉 More on my [portfolio](https://ladalin-portfolio.vercel.app/) and [GitHub](https://github.com/ladalin05)
 
@@ -43,7 +43,6 @@ I work across **frontend and backend**, and I'm currently **open to full-time in
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Databases
@@ -53,19 +52,25 @@ I work across **frontend and backend**, and I'm currently **open to full-time in
 ### 🧰 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+
+---
+
+## 🤝 Soft Skills
+
+Cross-team collaboration · Troubleshooting & root cause analysis · Technical documentation & communication
 
 ---
 
 ## 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ladalin-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ladalin05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la-dalin-b88829393)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dalin1534)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lin280454@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ladalin2311@gmail.com)
 
 ---
 
